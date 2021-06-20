@@ -1,2 +1,58 @@
-# Show_me_the_film
-ì˜í™” ì†Œê°œ ì–´í”Œ
+
+
+# Show Me The Film
+**¿µÈ­ ¼Ò°³ ¾îÇÃ**
+
+## Description
+¿µÈ­¸¦ Àå¸£º° ¶Ç´Â ÀÏÀÏ¹Ú½º¿ÀÇÇ½º, ÁÖ°£¹Ú½º¿ÀÇÇ½º º°·Î Ã£¾Æº¼ ¼ö ÀÖÀ½
+
+
+
+## Development motive
+
+½ÃÁß¿¡ ³ª¿Â ¸¹Àº ¿µÈ­Áß¿¡ »ç¿ëÀÚ°¡ º¸°í½ÍÀº ¿µÈ­¸¸À» **ºü¸£°í** **½±°Ô** Ã£¾Æ¼­ º¸±â À§ÇÏ¿© °³¹ß
+
+
+## Communication technique
+- SQLite µ¥ÀÌÅÍº£ÀÌ½º¸¦ »ç¿ëÇÏ¿© »ç¿ëÀÚÀÇ Á¤º¸ ÀúÀå
+	> Äõ¸®¹®À» »ç¿ëÇÏ¿© ·Î±×ÀÎ ¹× »ç¿ëÀÚÀÇ Á¤º¸¸¦ ºÒ·¯¿È
+- Retrofit2 ¶óÀÌºê·¯¸®¸¦ »ç¿ëÇÏ¿© ¿µÈ­Á¤º¸ ÆÄ½Ì
+	> ½Ç½Ã°£ ¿µÈ­Á¤º¸¸¦ ¼­¹ö·ÎºÎÅÍ ¹Þ¾Æ¿È
+
+## Used Language
+- JAVA in Android Studio
+
+## ScreenShot
+
+- ½ºÇÃ·¡½Ã
+![splash](https://user-images.githubusercontent.com/29722886/50544680-fdaea700-0c41-11e9-89d4-495a5cad9891.gif)
+
+- ·Î±×ÀÎ
+-![default](https://user-images.githubusercontent.com/29722886/50544801-8a5a6480-0c44-11e9-92e7-cfbbada82853.png)
+
+- È¸¿ø°¡ÀÔ
+![default](https://user-images.githubusercontent.com/29722886/50544802-98a88080-0c44-11e9-9260-69d63a7d5239.png)
+
+- ¿µÈ­Àå¸£
+![1](https://user-images.githubusercontent.com/29722886/50544806-bc6bc680-0c44-11e9-9e45-fa7d43b90282.png)
+![default](https://user-images.githubusercontent.com/29722886/50544805-b249c800-0c44-11e9-8825-f618c7bc24d5.png)
+
+- ¹Ú½º¿ÀÇÇ½º
+![default](https://user-images.githubusercontent.com/29722886/50544808-dad1c200-0c44-11e9-9c75-7808e0f16fc0.png)
+
+- ¿µÈ­»ó¼¼ÆäÀÌÁö
+![default](https://user-images.githubusercontent.com/29722886/50544820-38fea500-0c45-11e9-92b4-03ea0c198eb1.png)
+
+- ¼³Á¤
+![14](https://user-images.githubusercontent.com/29722886/50544823-474cc100-0c45-11e9-85a8-b0df0400b510.png)
+## What We Learned
+
+ListViewº¸´Ù È¿À²ÀûÀÎ RecylcerView¿Í Retrofit2 Åë½Å ¹æ¹ý µî Ã¥¿¡¼­ Á¢ÇÏÁö ¸øÇÏ¿´´ø °ÍµéÀ» ¹è¿ï ¼ö ÀÖ¾ú°í, ÀÌ¸¦ ÅëÇØ ¾Èµå·ÎÀÌµå °³¹ß¿¡ Á» ´õ ÀÍ¼÷ÇØÁú ¼ö ÀÖ´Â °è±â°¡ µÇ¾î¼­ ÁÁ¾ÒÀ½
+## Developer
+
+- ÀÓÇåÁØ
+>Git : https://github.com/Limheonjun
+- ÀÌµ¿¿±
+>Git : https://github.com/dongyub-lee
+- È²Á¤È¯
+>Git : https://github.com/hwangjeunghwan
